@@ -1,1 +1,1 @@
-# ejercicios_machine_learning
+# ejercicios de practica y examen de machine learning
